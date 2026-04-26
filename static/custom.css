@@ -1,0 +1,11 @@
+/* Add custom styles here, e.g. brand colors */
+body {
+  background-color: #f2f2f2;
+}
+.weather-card {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
